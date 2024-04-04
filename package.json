@@ -36,7 +36,7 @@
     "ai": "3.0.16",
     "date-fns": "3.6.0",
     "deepmerge": "4.3.1",
-    "easypanel.js": "1.3.0",
+    "easypanel.js": "1.1.6",
     "fast-deep-equal": "3.1.3",
     "framer-motion": "11.0.24",
     "jotai": "2.7.2",
